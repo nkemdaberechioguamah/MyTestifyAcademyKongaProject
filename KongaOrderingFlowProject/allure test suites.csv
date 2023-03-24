@@ -1,0 +1,14 @@
+Status,Start Time,Stop Time,Duration in ms,Parent Suite,Suite,Test Class,Test Method,Name
+passed,Thu Mar 23 17:20:47 PDT 2023,Thu Mar 23 17:20:58 PDT 2023,10489,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,correctLoginPage,correctLoginPage
+passed,Thu Mar 23 17:20:58 PDT 2023,Thu Mar 23 17:21:03 PDT 2023,5272,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,confirmLogInScreen,confirmLogInScreen
+passed,Thu Mar 23 17:21:03 PDT 2023,Thu Mar 23 17:21:08 PDT 2023,5274,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,PositiveLogin,PositiveLogin
+passed,Thu Mar 23 17:21:08 PDT 2023,Thu Mar 23 17:21:13 PDT 2023,5079,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,selectCategorySuccessfully,selectCategorySuccessfully
+passed,Thu Mar 23 17:21:13 PDT 2023,Thu Mar 23 17:21:23 PDT 2023,10152,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,selectLaptopSuccessfully,selectLaptopSuccessfully
+passed,Thu Mar 23 17:21:23 PDT 2023,Thu Mar 23 17:21:34 PDT 2023,10143,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,selectAppleMacbookSuccessfully,selectAppleMacbookSuccessfully
+passed,Thu Mar 23 17:21:34 PDT 2023,Thu Mar 23 17:21:39 PDT 2023,5240,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,addItemToCart,addItemToCart
+passed,Thu Mar 23 17:21:39 PDT 2023,Thu Mar 23 17:21:49 PDT 2023,10117,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,completeOrder,completeOrder
+passed,Thu Mar 23 17:21:49 PDT 2023,Thu Mar 23 17:22:09 PDT 2023,20340,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,selectAddress,selectAddress
+passed,Thu Mar 23 17:22:09 PDT 2023,Thu Mar 23 17:22:20 PDT 2023,10209,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,makePayment,makePayment
+passed,Thu Mar 23 17:22:20 PDT 2023,Thu Mar 23 17:22:25 PDT 2023,5011,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,selectPaymentMethod,selectPaymentMethod
+passed,Thu Mar 23 17:22:25 PDT 2023,Thu Mar 23 17:22:25 PDT 2023,0,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,enterCardDetails,enterCardDetails
+passed,Thu Mar 23 17:22:25 PDT 2023,Thu Mar 23 17:22:45 PDT 2023,20034,Default Suite,KongaOrderingFlowProject,KongaOrderingFlowTest,PrintErrorMessage,PrintErrorMessage
